@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "Remera",
+        "precio": 19,
+        "stock": 70,
+        "imgSrc": "img/remera.jpg"
+    },
+    {
+        "nombre": "Gorra",
+        "precio": 12,
+        "stock": 40,
+        "imgSrc": "img/gorra.jpg"
+    },
+    {
+        "nombre": "Canguro",
+        "precio": 49,
+        "stock": 60,
+        "imgSrc": "img/canguro.jpeg"
+    },
+    {
+        "nombre": "Medio cierre",
+        "precio": 59,
+        "stock": 34,
+        "imgSrc": "img/Medio-cierre.jpg"
+    },
+    {
+        "nombre": "Bermuda",
+        "precio": 39,
+        "stock": 100,
+        "imgSrc": "img/bermuda.jpeg"
+    },
+    {
+        "nombre": "Medias",
+        "precio": 4,
+        "stock": 120,
+        "imgSrc": "img/medias.jpg"
+    },
+    {
+        "nombre": "Pantalon",
+        "precio": 54,
+        "stock": 90,
+        "imgSrc": "img/pantalon.jpg"
+    },
+    {
+        "nombre": "Corta viento",
+        "precio": 64,
+        "stock": 90,
+        "imgSrc": "img/corta-viento.jpg"
+    }
+]
